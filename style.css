@@ -1,0 +1,41 @@
+body {
+    padding: 100px;
+}
+
+#login-box {
+
+    padding: 50px;
+}
+
+.status h2 {
+    font-size: 70px;
+}
+
+.status {
+    margin: 0 50px;
+    color: white;
+    padding: 45px;
+    border-radius: 14px;
+}
+
+.deposit {
+    background-color: tomato;
+}
+
+.withdraw {
+    background-color: teal;
+}
+
+.balance {
+    background-color: rgb(121, 221, 6);
+}
+
+.box-element {
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px;
+    padding: 40px;
+    margin-top: 50px;
+}
+#transaction-area {
+    display: none;
+}
